@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540111595 source:c:\users\daniel hov\desktop\new folder\xoa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"First.h"
+
+1539527528 c:\users\daniel hov\desktop\new folder\xoa\first.h
+
